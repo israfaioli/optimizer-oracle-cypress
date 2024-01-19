@@ -43,3 +43,13 @@ Olá Analistas, desenvolvedores e recrutadores. Este readme irá apresentar a es
 ```
 npm test
 ```
+
+### Pipeline URL CICD ###
+https://github.com/israfaioli/optimizer-oracle-cypress/actions
+
+
+### Github repositories ###
+https://github.com/israfaioli?tab=repositories
+
+### Optimizer test repository ###
+https://github.com/israfaioli/optimizer-oracle-cypress
