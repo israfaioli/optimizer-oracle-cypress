@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "cypress": "^13.6.3"
+  },
+  "name": "optimizer-oracle-cypress",
+  "description": "Olá Analistas, desenvolvedores e recrutadores. Este readme irá apresentar a estrutura deste projeto cypress de portfólio pessoal.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "cypress run --browser=chrome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
